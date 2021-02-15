@@ -17,7 +17,7 @@ Now learning about NextJs and TypeScript.
 ### :pencil: About Me
 
 <p>
-I am a simple person, who likes to run, coffe, listen to loud music and have a good cold beer.
+I am a simple person, who likes to run, coffee, listen to loud music and have a good cold beer.
 </p>
 
 ---
